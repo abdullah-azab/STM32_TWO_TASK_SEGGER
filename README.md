@@ -4,19 +4,19 @@
 
 ### An exercise in FREE-RTOS and Segger Sysview integration , On STM-32 NUCLIO-767ZI board.
 
-Segger Sysview is a great tool for depugging real time os and seeing task sheduling in action .
-in this exersie single shot and continous capturing are poth used and tested.
+Segger Sysview is a great tool for debugging real time OS and seeing task scheduling in action .
+in this exercise single shot and continuous capturing are poth used and tested.
 
 ## Features
 
 - FREE-RTOS is configured with two tasks of equel priorities.
-- Each of the tasks send a unique message via UART.
-- UART usage contistance is hadled with shared a blocking flag.
-- Single shot mode reqirements and patches are applied integrated in th project.
+- Each of the tasks sends a unique message via UART.
+- UART usage contestation is hadled with shared a blocking flag.
+- Single shot mode requirements and patches are integrated in th project.
 - J-Link firmware is flashed on the board to enable continuous capture mode.
 
 
-## Screane shots
+## screenshots
 
 |   | Image |
 | ------ | ------ |
