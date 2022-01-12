@@ -20,7 +20,7 @@ in this exersie single shot and continous capturing are poth used and tested.
 
 |   | Image |
 | ------ | ------ |
-| UART Termenal | ![uart termenal](/Img/Screenshot 2022-01-12 224850.png) |
-| Single shot capture | ![uart termenal](/Img/Screenshot 2022-01-12 215229.png) |
-| Continous capture mode| ![uart termenal](/Img/Screenshot 2022-01-12 204000.png) |
+| UART Termenal | ![uart termenal](https://github.com/abdullahazab/STM32_TWO_TASK_SEGGER/blob/main/Img/Screenshot%202022-01-12%20224850.png?raw=true) |
+| Single shot capture | ![uart termenal](https://github.com/abdullahazab/STM32_TWO_TASK_SEGGER/blob/main/Img/Screenshot%202022-01-12%20215229.png?raw=true) |
+| Continous capture mode| ![uart termenal](https://github.com/abdullahazab/STM32_TWO_TASK_SEGGER/blob/main/Img/Screenshot%202022-01-12%20204000.png?raw=true) |
 
